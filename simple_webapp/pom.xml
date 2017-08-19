@@ -4,7 +4,7 @@
   <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>simple_webapp</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0.6</version>
+  <version>$Version</version>
   <name>simple_webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
