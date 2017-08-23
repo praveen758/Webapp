@@ -5,6 +5,5 @@
 <h4> Programmed by praveen </h4>
 <p> end of program </p>
 <h4> Thank you very much</h4>
-  <p>----------------------------------</p>
 </body>
 </html>
